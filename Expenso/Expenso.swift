@@ -1,6 +1,6 @@
 //
-//  CentSageApp.swift
-//  CentSage
+//  ExpensoApp.swift
+//  Expenso
 //
 //  Created by Christopher Endress on 9/22/23.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct CentSageApp: App {
+struct ExpensoApp: App {
   let persistenceController = PersistenceController.shared
   @StateObject var themeProvider = ThemeProvider()
   

@@ -1,6 +1,6 @@
 //
 //  OnboardingView.swift
-//  CentSage
+//  Expenso
 //
 //  Created by Christopher Endress on 9/22/23.
 //
@@ -15,7 +15,7 @@ struct OnboardingView: View {
   
   let onboardingScreens = [
     OnboardingScreen(
-      title: "Welcome to CentSage",
+      title: "Welcome to Expenso",
       isColoredTitle: true,
       description: "Wisdom in every cent.",
       image: Image("Screenshot")

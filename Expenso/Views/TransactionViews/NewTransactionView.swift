@@ -1,6 +1,6 @@
 //
 //  NewTransactionView.swift
-//  CentSage
+//  Expenso
 //
 //  Created by Christopher Endress on 9/22/23.
 //

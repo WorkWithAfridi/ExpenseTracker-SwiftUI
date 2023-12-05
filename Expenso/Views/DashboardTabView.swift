@@ -1,6 +1,6 @@
 //
 //  DashboardTabView.swift
-//  CentSage
+//  Expenso
 //
 //  Created by Christopher Endress on 9/24/23.
 //

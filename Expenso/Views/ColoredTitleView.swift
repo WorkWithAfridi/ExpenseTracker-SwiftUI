@@ -1,6 +1,6 @@
 //
 //  ColoredTitleView.swift
-//  CentSage
+//  Expenso
 //
 //  Created by Christopher Endress on 9/25/23.
 //
@@ -11,7 +11,7 @@ struct ColoredTitleView: View {
   var body: some View {
     HStack {
       Text("Welcome to")
-      Text("CentSage").foregroundColor(Color("ExpensoGreen"))
+      Text("Expenso").foregroundColor(Color("ExpensoGreen"))
     }
     .font(.largeTitle)
     .bold()
